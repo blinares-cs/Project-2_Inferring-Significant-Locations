@@ -1,1 +1,1 @@
-# Project-2_Inferring-Significant-Locations
+# Project 2: Inferring Significant Locations
